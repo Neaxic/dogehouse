@@ -151,13 +151,13 @@
       },
       "invitedToJoinRoomModal": {
         "newRoomCreated": "Nyt rum oprettet",
-        "roomInviteFrom": "Rum Invitation fra",
+        "roomInviteFrom": "Rum Invitationer fra",
         "justStarted": "De er lige begyndt",
         "likeToJoin": ", Har du lyst til at deltage?",
         "inviteReceived": "Du er blevet inviteret til"
       },
       "editProfileModal": {
-        "usernameTaken": "Brugernavn optaget",
+        "usernameTaken": "Brugernavnet er optaget",
         "avatarUrlError": "Ugyldigt billede",
         "avatarUrlLabel": "Github/Twitter avatar url",
         "displayNameError": "Længde 2 til 50 tegn",
@@ -199,13 +199,13 @@
         "needsFuture": "skal være i fremtiden",
         "roomName": "Rum navn",
         "minLength": "Minimum længde på 2 tegn",
-        "roomDescription": "Description"
+        "roomDescription": "Beskrivelse"
       }
     },
     "roomChat": {
       "title": "Chat",
       "emotesSoon": "[emotes kommer snart]",
-      "bannedAlert": "Du blev bandlyst fra chatten",
+      "bannedAlert": "Du er blevet bandlyst fra chatten",
       "waitAlert": "Du skal vente et sekund før du sender endnu en besked",
       "search": "Søg",
       "searchResults": "Søgeresultater",
@@ -223,9 +223,9 @@
       "lunarDoge": "Måne doge",
       "approachingSun": "Nærmes solen",
       "solarDoge": "Sol doge",
-      "approachingGalaxy": "Approaching galaxy",
-      "galacticDoge": "Galactic Doge",
-      "spottedLife": "Planet with life spotted"
+      "approachingGalaxy": "Nærmes Galaxen",
+      "galacticDoge": "Galaktisk Doge",
+      "spottedLife": "Planet med liv opdaget"
     }
   }
 }
